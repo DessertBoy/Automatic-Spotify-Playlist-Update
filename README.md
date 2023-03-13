@@ -7,7 +7,9 @@ I have included links to the documentation for the libraries I used and I've als
 You must use Spotify credentials to log in. That means not using Facebook, Apple, or Google to log in. I apologize for the inconvience if you use any of the three services listed above to log in. Hopefully in the future I'm able to update this project so anybody can log in regardless of the service they use to log in to their Spotify account. 
 
 # Requirements
-1. You must have a Spotify account. You also need to create a Spotify Developer account which you can create [here](https://developer.spotify.com/dashboard/). All you need to do is log in and accept the Spotify Developer Terms of Service.
+1. You must have a Spotify account. You also need to create a Spotify Developer account which you can create [here](https://developer.spotify.com/dashboard/). It is free, all you need to do is log in and accept the Spotify Developer Terms of Service. You do not need to create a dashboard to continue with this project.
 
-https://user-images.githubusercontent.com/56139759/224573817-e72e63aa-9f5f-4dad-927e-90ed539d81f7.mp4
+https://user-images.githubusercontent.com/56139759/224590136-492cd03a-c980-4ffa-b9f0-3598c2d8432b.mp4
 
+
+2. This is not a requirement but I highly recommend creating a new playlist. The video below will also show you how to get the playlist ID, also known as the Spotify URI. You simply hit the three dots underneath the playlist cover, go to Share, hover over "Copy link to playlist", and hit Ctrl. A new option titled "Copy Spotify URI" will appear. Copy that and paste it as your playlist_ID on the syntax. Make sure to get rid of the "spotify:playlist:" portion of the ID. Watch the video below to see  what I mean.
