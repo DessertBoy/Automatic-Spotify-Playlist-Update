@@ -11,5 +11,10 @@ You must use Spotify credentials to log in. That means not using Facebook, Apple
 
 https://user-images.githubusercontent.com/56139759/224590136-492cd03a-c980-4ffa-b9f0-3598c2d8432b.mp4
 
+<br />
 
-2. This is not a requirement but I highly recommend creating a new playlist. The video below will also show you how to get the playlist ID, also known as the Spotify URI. You simply hit the three dots underneath the playlist cover, go to Share, hover over "Copy link to playlist", and hit Ctrl. A new option titled "Copy Spotify URI" will appear. Copy that and paste it as your playlist_ID on the syntax. Make sure to get rid of the "spotify:playlist:" portion of the ID. Watch the video below to see  what I mean.
+
+2. This is not a requirement but I highly recommend creating a new playlist. The video below will also show you how to get the playlist ID, also known as the Spotify URI. You simply hit the three dots underneath the playlist cover, go to Share, hover over "Copy link to playlist", and hit Ctrl. A new option titled "Copy Spotify URI" will appear. Copy that and paste it as your playlist_id on the syntax. Make sure to get rid of the "spotify:playlist:" portion of the ID. Watch the video below to see  what I mean.
+
+https://user-images.githubusercontent.com/56139759/224603757-cffc0833-2b25-4651-a841-9cc062f52665.mp4
+
