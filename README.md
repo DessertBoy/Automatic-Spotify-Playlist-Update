@@ -33,3 +33,5 @@ https://user-images.githubusercontent.com/56139759/224895650-e561fb4d-6d98-4f90-
 ![image](https://user-images.githubusercontent.com/56139759/224896679-57e6ee97-8b22-49d0-99fc-fb3479a54573.png)
 ![image](https://user-images.githubusercontent.com/56139759/224896734-50e0081d-c209-4fd6-8f3e-a7baa24c4f4c.png)
 
+<br />
+5. Some basic knowledge of HTML.
