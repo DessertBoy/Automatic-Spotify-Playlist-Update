@@ -40,3 +40,19 @@ https://user-images.githubusercontent.com/56139759/224603757-cffc0833-2b25-4651-
 https://user-images.githubusercontent.com/56139759/224895650-e561fb4d-6d98-4f90-8828-05658b2fe09d.mp4
 
 <br />
+
+# Resources
+
+The video below will demonstrate how to obtain the genre ID for any genre on allmusic.com
+
+
+https://user-images.githubusercontent.com/56139759/226225000-f4def5eb-88c7-4b15-a325-20c008345d26.mp4
+
+<br />
+
+Here are some links to some helpful youtube videos that go more into detail about selenium:
+* [How to install selenium](https://www.youtube.com/watch?v=mvJ1dNHH3vM&list=PLL34mf651faPOf5PE5YjYgTRITzVzzvMz&index=5)
+* [How to install webdriver](https://www.youtube.com/watch?v=z-biUumQxlw&list=PLL34mf651faPOf5PE5YjYgTRITzVzzvMz&index=8)
+* [Webdriver_manager explanation and installation](https://www.youtube.com/watch?v=Z3M2GBu8t_k&list=PLL34mf651faPOf5PE5YjYgTRITzVzzvMz&index=11)
+* [Explanation of web elements (will help understand the function driver.find_element)](https://www.youtube.com/watch?v=tQ-Vip-ySRg&list=PLL34mf651faPOf5PE5YjYgTRITzVzzvMz&index=57)
+* [How to find XPATH and explanation of XPATH](https://www.youtube.com/watch?v=mKM35Hnsd5c&list=PLL34mf651faPOf5PE5YjYgTRITzVzzvMz&index=60)
