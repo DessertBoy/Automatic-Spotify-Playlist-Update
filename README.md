@@ -9,29 +9,34 @@ You must use Spotify credentials to log in. That means not using Facebook, Apple
 By default, this project is set to scrape Deep House albums from allmusic.com. In a video below I will show you how to get the genre ID from allmusic.com in case you want to scrape albums from a different genre :).
 
 # Requirements
-1. You must have a Spotify account. You also need to create a Spotify Developer account which you can create [here](https://developer.spotify.com/dashboard/). It is free, all you need to do is log in and accept the Spotify Developer Terms of Service. You do not need to create a dashboard to continue with this project.
+1. Have basic/intermediate knowledge of Python.
+<br />
+
+2. Basic knowledge of HTML
+
+<br />
+
+3. You will need to have Selenium, a webdriver for your browser, and Beautiful Soup installed. I will not get into details on how to install these packages, you can google that, but I will include Youtube links below on Selenium. Selenium could be confusing at first.
+![image](https://user-images.githubusercontent.com/56139759/224896679-57e6ee97-8b22-49d0-99fc-fb3479a54573.png)
+![image](https://user-images.githubusercontent.com/56139759/224896734-50e0081d-c209-4fd6-8f3e-a7baa24c4f4c.png)
+
+<br />
+
+4. You must have a Spotify account. You also need to create a Spotify Developer account which you can create [here](https://developer.spotify.com/dashboard/). It is free, all you need to do is log in and accept the Spotify Developer Terms of Service. You do not need to create a dashboard to continue with this project.
 
 https://user-images.githubusercontent.com/56139759/224590136-492cd03a-c980-4ffa-b9f0-3598c2d8432b.mp4
 
 <br />
 
-
-2. This is not a requirement but I highly recommend creating a new playlist. The video below will show you how to get the playlist ID, also known as the Spotify URI. You simply click on the three dots underneath the playlist cover, go to Share, hover over "Copy link to playlist", and press Ctrl. A new option titled "Copy Spotify URI" will appear. Copy that and paste it as your playlist_id on the syntax. Make sure to get rid of the "spotify:playlist:" portion of the ID. Watch the video below to see  what I mean.
+5. This is not a requirement but I highly recommend creating a new playlist. The video below will show you how to get the playlist ID, also known as the Spotify URI. You simply click on the three dots underneath the playlist cover, go to Share, hover over "Copy link to playlist", and press Ctrl. A new option titled "Copy Spotify URI" will appear. Copy that and paste it as your playlist_id on the syntax. Make sure to get rid of the "spotify:playlist:" portion of the ID. Watch the video below to see  what I mean.
 
 https://user-images.githubusercontent.com/56139759/224603757-cffc0833-2b25-4651-a841-9cc062f52665.mp4
 
 <br />
 
-3. You are going to have to decide whether you want to make your playlist public or private. This project by default has private scopes selected. If you decide to make your playlist public you are going to have to comment out playlist_modify_private and playlist_modify_private.click() and uncomment playlist_modify_public and playlist_modify_public.click(). P.S. Had to reduce video quality to be able to attach it.
+6. You are going to have to decide whether you want to make your playlist public or private. This project by default has private scopes selected. If you decide to make your playlist public you are going to have to comment out playlist_modify_private and playlist_modify_private.click() and uncomment playlist_modify_public and playlist_modify_public.click(). P.S. Had to reduce video quality to be able to attach it.
 
 
 https://user-images.githubusercontent.com/56139759/224895650-e561fb4d-6d98-4f90-8828-05658b2fe09d.mp4
 
 <br />
-
-4. You will need to have Selenium, a webdriver for your browser, and Beautiful Soup installed. I will not get into details on how to install these packages, you can google that, but I will include Youtube links below on Selenium. Selenium could be confusing at first.
-![image](https://user-images.githubusercontent.com/56139759/224896679-57e6ee97-8b22-49d0-99fc-fb3479a54573.png)
-![image](https://user-images.githubusercontent.com/56139759/224896734-50e0081d-c209-4fd6-8f3e-a7baa24c4f4c.png)
-
-<br />
-5. Some basic knowledge of HTML.
