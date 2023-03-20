@@ -43,6 +43,7 @@ https://user-images.githubusercontent.com/56139759/224895650-e561fb4d-6d98-4f90-
 
 # Resources
 
+### Changing the Genre ID
 The video below will demonstrate how to obtain the genre ID for any genre on allmusic.com
 
 
@@ -56,3 +57,23 @@ Here are some links to some helpful youtube videos that go more into detail abou
 * [Webdriver_manager explanation and installation](https://www.youtube.com/watch?v=Z3M2GBu8t_k&list=PLL34mf651faPOf5PE5YjYgTRITzVzzvMz&index=11)
 * [Explanation of web elements (will help understand the function driver.find_element)](https://www.youtube.com/watch?v=tQ-Vip-ySRg&list=PLL34mf651faPOf5PE5YjYgTRITzVzzvMz&index=57)
 * [How to find XPATH and explanation of XPATH](https://www.youtube.com/watch?v=mKM35Hnsd5c&list=PLL34mf651faPOf5PE5YjYgTRITzVzzvMz&index=60)
+
+<br />
+
+### Documentation
+* [Selenium Documentation](https://www.selenium.dev/documentation/)
+* [Beautiful Soup documentation](https://beautiful-soup-4.readthedocs.io/en/latest/)
+* [requests documentation](https://requests.readthedocs.io/en/latest/user/quickstart/)
+
+<br />
+
+### Spotify Documentation and API Endpoints
+* [Token/Authorization explanation](https://developer.spotify.com/documentation/general/guides/authorization/)
+* [Retrieving Song ID API endpoint documentation](https://developer.spotify.com/documentation/web-api/reference/#/operations/get-playlists-tracks)
+	- [Retrieving Song ID API endpoint](https://developer.spotify.com/console/get-playlist-tracks/)
+* [Remove Tracks from Playlist API endpoint documentation](https://developer.spotify.com/documentation/web-api/reference/#/operations/remove-tracks-playlist)
+  - [Remove Tracks from Playlist API endpoint](https://developer.spotify.com/console/delete-playlist-tracks/)
+* ["Search" API endpoint documentation can be found here](https://developer.spotify.com/documentation/web-api/reference/#/operations/search)
+  - ["Search" endpoint can be found here](https://developer.spotify.com/console/get-search-item/)
+* [Album tracks search API endpoint documentation](https://developer.spotify.com/documentation/web-api/reference/#/operations/get-an-albums-tracks)
+  - [Album tracks search API endpoint](https://developer.spotify.com/console/get-album-tracks/)
