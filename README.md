@@ -77,3 +77,4 @@ Here are some links to some helpful youtube videos that go more into detail abou
   - ["Search" endpoint can be found here](https://developer.spotify.com/console/get-search-item/)
 * [Album tracks search API endpoint documentation](https://developer.spotify.com/documentation/web-api/reference/#/operations/get-an-albums-tracks)
   - [Album tracks search API endpoint](https://developer.spotify.com/console/get-album-tracks/)
+* [Explanation of what Spotify Scopes are](https://developer.spotify.com/documentation/general/guides/authorization/scopes/)
