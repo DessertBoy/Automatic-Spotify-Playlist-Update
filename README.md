@@ -17,6 +17,7 @@ By default, this project is set to scrape Deep House albums from allmusic.com. I
 <br />
 
 3. You will need to have Selenium, a webdriver for your browser, and Beautiful Soup installed. I will not get into details on how to install these packages, you can google that, but I will include Youtube links below on Selenium. Selenium could be confusing at first.
+
 ![image](https://user-images.githubusercontent.com/56139759/224896679-57e6ee97-8b22-49d0-99fc-fb3479a54573.png)
 ![image](https://user-images.githubusercontent.com/56139759/224896734-50e0081d-c209-4fd6-8f3e-a7baa24c4f4c.png)
 
