@@ -1,6 +1,6 @@
 # Automatic Spotify Playlist Update
 
-*UPDATE*
+**UPDATE: SINCE SPOTIFY HAS CHANGED THEIR USER INTERFACE AND NOT ALLOWING MANUAL TOKEN COLLECTION THIS CODE UNFORTUNATLEY WILL NOT WORK. WILL LEAVE UP IN CASE SPOTIFY ALLOWS MANUAL TOKEN COLLECTION AGAIN IN THE FUTURE. WILL JUST NEED TO MODIFY CODE.**
 
 This project will automatically delete songs from any playlist that you have created on Spotify and it will upload new random songs from albums scraped from allmusic.com. However, it is recommended that you create a new playlist for this project.
 
