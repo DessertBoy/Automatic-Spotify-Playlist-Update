@@ -1,4 +1,7 @@
 # Automatic Spotify Playlist Update
+
+*UPDATE*
+
 This project will automatically delete songs from any playlist that you have created on Spotify and it will upload new random songs from albums scraped from allmusic.com. However, it is recommended that you create a new playlist for this project.
 
 This is a personal project. I decided to share it with the public in case anybody would like to create something similar and is looking for a reference or base.
